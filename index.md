@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Bienvenidos al sitio web de **laboratorio de quimica en UAEMEX**!
+Bienvenidos al sitio web del **Laboratorio de Neuroquimica de UAEMEX**!
 
 <img src="images/uaemex_logo.png" width="200" style="display: block; margin: 0 auto">
 

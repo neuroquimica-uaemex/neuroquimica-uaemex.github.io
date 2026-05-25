@@ -21,7 +21,7 @@
 title: neuroquimica UAEMex
 email: zorin.e.private.m@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Este es el sitio web de laboratorio de quimica de UAEMex.
+  Este es el sitio web de laboratorio de quimica de UAEMex.
 
 # baseurl: "/basename" # the subpath of your site, e.g. /blog
 url: neuroquimica-uaemex.github.io # the base hostname & protocol for your site, e.g. http://example.com

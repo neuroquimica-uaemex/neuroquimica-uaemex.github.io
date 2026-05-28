@@ -32,12 +32,59 @@ body {
 }
 
 .hero-lab {
-  height: 420px;
-  background-image: url("../../images/banner.jpg");
+  min-height: 520px;
+  background-image:
+    linear-gradient(
+      rgba(25, 10, 40, 0.68),
+      rgba(6, 18, 32, 0.78)
+    ),
+    url("../../images/banner.jpg");
   background-position: center center;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-color: #061220;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 4rem 1.5rem;
+}
+
+.hero-overlay {
+  max-width: 900px;
+  color: white;
+  padding: 2.5rem;
+  border-radius: 28px;
+  background: rgba(6, 18, 32, 0.38);
+  backdrop-filter: blur(3px);
+  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.28);
+}
+
+.hero-kicker {
+  margin: 0 0 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.82rem;
+  font-weight: 700;
+  opacity: 0.92;
+}
+
+.hero-lab h1 {
+  margin: 0;
+  font-size: clamp(2.4rem, 6vw, 5rem);
+  line-height: 1.05;
+  letter-spacing: 0.02em;
+  text-shadow: 0 4px 20px rgba(0, 0, 0, 0.45);
+}
+
+.hero-subtitle {
+  max-width: 760px;
+  margin: 1.3rem auto 0;
+  font-size: clamp(1.05rem, 2vw, 1.35rem);
+  line-height: 1.7;
+  font-weight: 500;
+  opacity: 0.96;
+  text-shadow: 0 3px 16px rgba(0, 0, 0, 0.45);
 }
 
 .main-nav-lab {
@@ -685,10 +732,23 @@ body {
 
 .footer-lab {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 2.5rem 1rem;
   background: #061220;
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.78);
   font-size: 0.9rem;
+}
+
+.footer-logo {
+  width: 85px;
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem;
+  opacity: 0.92;
+}
+
+.footer-lab p {
+  margin: 0;
+  line-height: 1.6;
 }
 
 /* =========================
@@ -697,13 +757,27 @@ body {
 
 @media (max-width: 900px) {
   .hero-lab {
-    height: 300px;
+    min-height: 430px;
+  }
+
+  .hero-overlay {
+    padding: 2rem;
   }
 }
 
 @media (max-width: 700px) {
   .hero-lab {
-    height: 220px;
+    min-height: 360px;
+    padding: 3rem 1rem;
+  }
+
+  .hero-overlay {
+    padding: 1.5rem;
+    border-radius: 22px;
+  }
+
+  .hero-kicker {
+    font-size: 0.68rem;
   }
 }
 

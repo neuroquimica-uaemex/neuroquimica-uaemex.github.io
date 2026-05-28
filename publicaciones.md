@@ -4,8 +4,6 @@ title: Publicaciones
 # permalink: /CPD/
 ---
 
-## Publicaciones recientes
-
 - <a href="https://pubmed.ncbi.nlm.nih.gov/39907852/" target="_blank">**Advances on the therapeutic potential of cell receptor activation in glioblastoma**</a>. Contreras-Chávez G.G., Zapi-Colín L.A. Estrada J.A., Contreras I. Mol Biol. Rep. (2025) 52:207. doi.org/10.1007/s11033-025
 - <a href="https://pubmed.ncbi.nlm.nih.gov/39724688/" target="_blank">**Arachidonoylethanolamide promotes cellular senescence in a human glioblastoma cell line. Zapi-Colin L.A. Dotor-Hernández J. E., Contreras I., Estrada J.A. Biochem Biophys Res Commun. (2025)
 745:151235. doi: 10.1016/j.bbrc.2024.151235

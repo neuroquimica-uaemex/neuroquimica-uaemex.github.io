@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: Nuestro equipo
 # permalink: /about-us/
 ---
 

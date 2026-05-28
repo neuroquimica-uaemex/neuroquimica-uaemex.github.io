@@ -1,15 +1,171 @@
 ---
-layout: page
+layout: null
 title: Publicaciones
-permalink: /publiaciones/
+permalink: /publicaciones/
 ---
 
-- <a href="https://pubmed.ncbi.nlm.nih.gov/39907852/" target="_blank">**Advances on the therapeutic potential of cell receptor activation in glioblastoma**</a>. Contreras-Chávez G.G., Zapi-Colín L.A. Estrada J.A., Contreras I. Mol Biol. Rep. (2025) 52:207. doi.org/10.1007/s11033-025
-- <a href="https://pubmed.ncbi.nlm.nih.gov/39724688/" target="_blank">**Arachidonoylethanolamide promotes cellular senescence in a human glioblastoma cell line. Zapi-Colin L.A. Dotor-Hernández J. E., Contreras I., Estrada J.A. Biochem Biophys Res Commun. (2025)
-745:151235. doi: 10.1016/j.bbrc.2024.151235
-- <a href="https://estudiosyperspectivas.org/index.php/EstudiosyPerspectivas/article/view/623" target="_blank">**Vitamina D en el Tratamiento de Cáncer de Mama.**</a> Ortiz-Cabrera G., Estrada J.A., Contreras I. Estudios Y Perspectivas Revista Científica Y Académica (2024) 4(3): 3383-3394. doi.org/10.61384/r.c.a.v4i3.623
-- <a href="https://pubmed.ncbi.nlm.nih.gov/37750905/" target="_blank">**Effect of Pyridoxine or Cobalamin Supplementation on Apoptosis and Cell Cycle Progression in a Human Glioblastoma Cell**</a>. Martínez Mendiola C.A, Estrada JA, Zapi-Colin L.A, Contreras-Chávez G.G, Contreras I. International Neurociences.(2023). 134(11): 1311-1321. 0.1080/00207454.2023.2263815
-- <a href="https://pubmed.ncbi.nlm.nih.gov/33641634/" target="_blank">**The impact of nutritive and non-nutritive sweeteners on the central nervous system: a preliminary study**</a>. López-Meza Otero-Ojeda, Contreras I. Nutritional Neprosciences: (2020); 25(d) 1623-125. doi: 10:1080/1028415.2021.1885239.
-- <a href="https://pubmed.ncbi.nlm.nih.gov/31656130/" target="_blank">**Changes in nutrient and calorie intake, adipose mass, triglycerides and TF-alpha concentrations after non-caloric sweetener intake: pilot study**</a>. Sánchez Delgado M, Estrada JA, Paredes-Cervantes, Hortwitz M, Contreras I. Int J. Vit Nut Res. (2021); 91(1-2): 87-98. doi: 10.1024/0300-9831/a000611
-- <a href="https://pubmed.ncbi.nlm.nih.gov/33128194/" target="_blank">**Changes in appetite regulation-related signaling pathways in the brain of mice supplemented with non-nutritive sweeteners**</a>.Contreras-Chavez G, Estrada JA, Contreras I.  Journal of Molecular Neuroscience. (2021); 71(6): 1144-1155. doi: 10.1007/s12031-020-01737-y
-- <a href="https://pubmed.ncbi.nlm.nih.gov/32065105/" target="_blank">**Endocannabinoid Receptors in the CNS: Potential Drug Targets for the Prevention and Treatment of Neurologic and Psychiatric Disorders**</a>. Estrada JA, Contreras I. Curr Neuropharma. (2020). 18 (8): 769- 787. doi: 10.2174/1570159X18666200217140255
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publicaciones | Laboratorio de Neuroquímica</title>
+  <link rel="stylesheet" href="/assets/css/lab.css">
+</head>
+
+<body>
+  <header class="page-header-lab">
+    <nav class="main-nav-lab">
+      <a href="/">Inicio</a>
+      <a href="/investigacion/">Investigación</a>
+      <a href="/publicaciones/">Publicaciones</a>
+      <a href="/equipo/">Equipo</a>
+      <a href="/proyectos/">Proyectos</a>
+      <a href="/posts/">Blog</a>
+      <a href="/contacto/">Contacto</a>
+    </nav>
+  </header>
+
+  <main class="content-page">
+    <section class="page-title">
+      <p>Producción académica</p>
+      <h1>Publicaciones</h1>
+    </section>
+
+    <section class="content-card intro-card">
+      <p>
+        Producción científica reciente del Laboratorio de Neuroquímica en temas relacionados
+        con glioblastoma, cáncer de mama, endocanabinoides, micronutrimentos y sistema nervioso.
+      </p>
+    </section>
+
+    <section class="publication-grid">
+
+      <article class="publication-card">
+        <span class="publication-year">2025</span>
+        <h2>Advances on the therapeutic potential of cell receptor activation in glioblastoma</h2>
+        <p class="publication-authors">
+          Contreras-Chávez G.G., Zapi-Colín L.A., Estrada J.A., Contreras I.
+        </p>
+        <p class="publication-journal">
+          <em>Molecular Biology Reports</em>, 52:207.
+        </p>
+        <p class="publication-doi">DOI: 10.1007/s11033-025</p>
+        <a class="publication-link" href="https://pubmed.ncbi.nlm.nih.gov/39907852/" target="_blank" rel="noopener">
+          Ver publicación →
+        </a>
+      </article>
+
+      <article class="publication-card">
+        <span class="publication-year">2025</span>
+        <h2>Arachidonoylethanolamide promotes cellular senescence in a human glioblastoma cell line</h2>
+        <p class="publication-authors">
+          Zapi-Colín L.A., Dotor-Hernández J.E., Contreras I., Estrada J.A.
+        </p>
+        <p class="publication-journal">
+          <em>Biochemical and Biophysical Research Communications</em>, 745:151235.
+        </p>
+        <p class="publication-doi">DOI: 10.1016/j.bbrc.2024.151235</p>
+        <a class="publication-link" href="https://pubmed.ncbi.nlm.nih.gov/39724688/" target="_blank" rel="noopener">
+          Ver publicación →
+        </a>
+      </article>
+
+      <article class="publication-card">
+        <span class="publication-year">2024</span>
+        <h2>Vitamina D en el Tratamiento de Cáncer de Mama</h2>
+        <p class="publication-authors">
+          Ortiz-Cabrera G., Estrada J.A., Contreras I.
+        </p>
+        <p class="publication-journal">
+          <em>Estudios y Perspectivas Revista Científica y Académica</em>, 4(3):3383-3394.
+        </p>
+        <p class="publication-doi">DOI: 10.61384/r.c.a.v4i3.623</p>
+        <a class="publication-link" href="https://estudiosyperspectivas.org/index.php/EstudiosyPerspectivas/article/view/623" target="_blank" rel="noopener">
+          Ver publicación →
+        </a>
+      </article>
+
+      <article class="publication-card">
+        <span class="publication-year">2023</span>
+        <h2>Effect of Pyridoxine or Cobalamin Supplementation on Apoptosis and Cell Cycle Progression in a Human Glioblastoma Cell</h2>
+        <p class="publication-authors">
+          Martínez Mendiola C.A., Estrada J.A., Zapi-Colín L.A., Contreras-Chávez G.G., Contreras I.
+        </p>
+        <p class="publication-journal">
+          <em>International Journal of Neuroscience</em>, 134(11):1311-1321.
+        </p>
+        <p class="publication-doi">DOI: 10.1080/00207454.2023.2263815</p>
+        <a class="publication-link" href="https://pubmed.ncbi.nlm.nih.gov/37750905/" target="_blank" rel="noopener">
+          Ver publicación →
+        </a>
+      </article>
+
+      <article class="publication-card">
+        <span class="publication-year">2021</span>
+        <h2>The impact of nutritive and non-nutritive sweeteners on the central nervous system: a preliminary study</h2>
+        <p class="publication-authors">
+          López-Meza, Otero-Ojeda, Contreras I.
+        </p>
+        <p class="publication-journal">
+          <em>Nutritional Neuroscience</em>, 25(8):1623-1625.
+        </p>
+        <p class="publication-doi">DOI: 10.1080/1028415.2021.1885239</p>
+        <a class="publication-link" href="https://pubmed.ncbi.nlm.nih.gov/33641634/" target="_blank" rel="noopener">
+          Ver publicación →
+        </a>
+      </article>
+
+      <article class="publication-card">
+        <span class="publication-year">2021</span>
+        <h2>Changes in nutrient and calorie intake, adipose mass, triglycerides and TF-alpha concentrations after non-caloric sweetener intake: pilot study</h2>
+        <p class="publication-authors">
+          Sánchez Delgado M., Estrada J.A., Paredes-Cervantes, Hortwitz M., Contreras I.
+        </p>
+        <p class="publication-journal">
+          <em>International Journal for Vitamin and Nutrition Research</em>, 91(1-2):87-98.
+        </p>
+        <p class="publication-doi">DOI: 10.1024/0300-9831/a000611</p>
+        <a class="publication-link" href="https://pubmed.ncbi.nlm.nih.gov/31656130/" target="_blank" rel="noopener">
+          Ver publicación →
+        </a>
+      </article>
+
+      <article class="publication-card">
+        <span class="publication-year">2021</span>
+        <h2>Changes in appetite regulation-related signaling pathways in the brain of mice supplemented with non-nutritive sweeteners</h2>
+        <p class="publication-authors">
+          Contreras-Chávez G., Estrada J.A., Contreras I.
+        </p>
+        <p class="publication-journal">
+          <em>Journal of Molecular Neuroscience</em>, 71(6):1144-1155.
+        </p>
+        <p class="publication-doi">DOI: 10.1007/s12031-020-01737-y</p>
+        <a class="publication-link" href="https://pubmed.ncbi.nlm.nih.gov/33128194/" target="_blank" rel="noopener">
+          Ver publicación →
+        </a>
+      </article>
+
+      <article class="publication-card">
+        <span class="publication-year">2020</span>
+        <h2>Endocannabinoid Receptors in the CNS: Potential Drug Targets for the Prevention and Treatment of Neurologic and Psychiatric Disorders</h2>
+        <p class="publication-authors">
+          Estrada J.A., Contreras I.
+        </p>
+        <p class="publication-journal">
+          <em>Current Neuropharmacology</em>, 18(8):769-787.
+        </p>
+        <p class="publication-doi">DOI: 10.2174/1570159X18666200217140255</p>
+        <a class="publication-link" href="https://pubmed.ncbi.nlm.nih.gov/32065105/" target="_blank" rel="noopener">
+          Ver publicación →
+        </a>
+      </article>
+
+    </section>
+  </main>
+
+  <footer class="footer-lab">
+    <p>Laboratorio de Neuroquímica · Universidad Autónoma del Estado de México</p>
+  </footer>
+</body>
+</html>

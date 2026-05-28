@@ -1,16 +1,98 @@
 ---
-layout: page
+layout: null
 title: Nuestro equipo
 permalink: /equipo/
 ---
 
-Nuestro equipo:
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Equipo | Laboratorio de Neuroquímica</title>
+  <link rel="stylesheet" href="/assets/css/lab.css">
+</head>
 
-<img src="images/lab_team.png" width="600" style="display: block; margin: 0 auto">
+<body>
+  <header class="page-header-lab">
+    <nav class="main-nav-lab">
+      <a href="/">Inicio</a>
+      <a href="/investigacion/">Investigación</a>
+      <a href="/publicaciones/">Publicaciones</a>
+      <a href="/equipo/">Equipo</a>
+      <a href="/proyectos/">Proyectos</a>
+      <a href="/posts/">Blog</a>
+      <a href="/contacto/">Contacto</a>
+    </nav>
+  </header>
 
-Investigadores responsables:
+  <main class="content-page">
+    <section class="page-title">
+      <p>Comunidad académica</p>
+      <h1>Nuestro equipo</h1>
+    </section>
 
-- **Dra. Irazú Contreras García**, SNII-II
-- **Dr. José Antonio Estrada Guadarrama**, SNII-II
-- **Dr. Luis Ángel Zapi Colín**, SNII-C
+    <section class="team-photo-section">
+      <img src="/images/lab_team.png" alt="Equipo del Laboratorio de Neuroquímica" class="team-photo">
+    </section>
 
+    <section class="team-section">
+      <h2>Investigadores responsables</h2>
+
+      <div class="team-grid">
+        <article class="person-card">
+          <div class="person-photo">IC</div>
+          <h3>Dra. Irazú Contreras García</h3>
+          <p class="person-role">Investigadora responsable · SNII-II</p>
+          <p class="person-email">
+            <a href="mailto:icontrerasg@uaemex.mx">icontrerasg@uaemex.mx</a>
+          </p>
+        </article>
+
+        <article class="person-card">
+          <div class="person-photo">JE</div>
+          <h3>Dr. José Antonio Estrada Guadarrama</h3>
+          <p class="person-role">Investigador responsable · SNII-II</p>
+          <p class="person-email">
+            <a href="mailto:jaestrada@uaemex.mx">jaestrada@uaemex.mx</a>
+          </p>
+        </article>
+
+        <article class="person-card">
+          <div class="person-photo">LZ</div>
+          <h3>Dr. Luis Ángel Zapi Colín</h3>
+          <p class="person-role">Investigador responsable · SNII-C</p>
+          <p class="person-email">
+            <a href="mailto:lazapi@uaemex.mx">lazapi@uaemex.mx</a>
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section class="team-section">
+      <h2>Estudiantes</h2>
+
+      <div class="student-columns">
+        <article class="student-group">
+          <h3>Doctorado</h3>
+          <p>Próximamente agregaremos estudiantes de doctorado y sus proyectos.</p>
+        </article>
+
+        <article class="student-group">
+          <h3>Maestría</h3>
+          <p>Próximamente agregaremos estudiantes de maestría y sus proyectos.</p>
+        </article>
+
+        <article class="student-group">
+          <h3>Licenciatura</h3>
+          <p>Próximamente agregaremos estudiantes de licenciatura, tesis, servicio social y estancias.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer-lab">
+    <p>Laboratorio de Neuroquímica · Universidad Autónoma del Estado de México</p>
+  </footer>
+</body>
+</html>

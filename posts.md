@@ -10,7 +10,7 @@ permalink: /posts/
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Blog y protocolos | Laboratorio de Neuroquímica</title>
-  <link rel="stylesheet" href="/assets/css/lab.css">
+  <link rel="stylesheet" href="/assets/css/lab.css?v=2">
 </head>
 
 <body>

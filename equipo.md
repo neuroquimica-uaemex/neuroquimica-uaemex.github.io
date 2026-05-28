@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nuestro equipo
-# permalink: /about-us/
+permalink: /equipo/
 ---
 
 Nuestro equipo:

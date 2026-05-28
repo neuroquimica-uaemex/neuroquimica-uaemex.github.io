@@ -1,18 +1,21 @@
+
 body {
-  background: pink !important;
+  background: #f6f8fb;
+}
+.hero-lab {
+  height: 320px;
+  background-image: url("../../images/banner.jpg");
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #061220;
 }
 
-.hero-lab {
-  min-height: 480px;
-  background:
-    linear-gradient(rgba(6, 18, 32, 0.78), rgba(6, 18, 32, 0.86)),
-    url("/images/banner.jpg") center/cover no-repeat;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  padding: 4rem 1.5rem;
+@media (max-width: 700px) {
+  .hero-lab {
+    height: 220px;
+    background-size: contain;
+  }
 }
 
 .hero-content {

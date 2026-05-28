@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Posts
-# permalink: /posts/
+permalink: /posts/
 ---
 
 Posts here.

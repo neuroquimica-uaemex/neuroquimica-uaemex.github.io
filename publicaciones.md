@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publicaciones
-# permalink: /CPD/
+permalink: /publiaciones/
 ---
 
 - <a href="https://pubmed.ncbi.nlm.nih.gov/39907852/" target="_blank">**Advances on the therapeutic potential of cell receptor activation in glioblastoma**</a>. Contreras-Chávez G.G., Zapi-Colín L.A. Estrada J.A., Contreras I. Mol Biol. Rep. (2025) 52:207. doi.org/10.1007/s11033-025

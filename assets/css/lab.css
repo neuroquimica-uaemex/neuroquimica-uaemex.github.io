@@ -32,7 +32,7 @@ body {
 }
 
 .hero-lab {
-  height: 360px;
+  height: 420px;
   background-image: url("../../images/banner.jpg");
   background-position: center center;
   background-size: contain;
@@ -697,14 +697,15 @@ body {
 
 @media (max-width: 900px) {
   .hero-lab {
-    height: 280px;
+    height: 300px;
   }
 }
 
 @media (max-width: 700px) {
   .hero-lab {
-    height: 210px;
+    height: 220px;
   }
+}
 
   .main-nav-lab {
     gap: 0.4rem;
@@ -735,4 +736,3 @@ body {
   .content-card {
     padding: 1.5rem;
   }
-}

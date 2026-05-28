@@ -1,11 +1,17 @@
 ---
 layout: post
-title:  "First post"
-date:   2026-05-24
-categories: jekyll update
+title: "Bienvenidos al sitio del Laboratorio de Neuroquímica"
+date: 2026-05-24
+categories: noticias
 permalink: /post1/
 ---
 
-> Pagina en desarollo
+Nos da mucho gusto dar la bienvenida al sitio web del **Laboratorio de Neuroquímica de la Universidad Autónoma del Estado de México**.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Este espacio fue creado para compartir información sobre nuestras líneas de investigación, proyectos en curso, publicaciones, actividades académicas y recursos útiles para estudiantes e integrantes del laboratorio.
+
+En el blog publicaremos noticias, avisos, avances del grupo y protocolos experimentales utilizados en nuestras actividades de investigación, como Western blot, cristal violeta, cultivo celular y otros métodos de trabajo.
+
+Este sitio se encuentra en desarrollo, por lo que estaremos agregando nuevas secciones y contenido de manera gradual.
+
+Gracias por visitarnos.
